@@ -1,0 +1,1487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OracleHRData>
+  <Data>
+    <EmployeeID>100</EmployeeID>
+    <EmployeeName>Steven King</EmployeeName>
+    <Email>SKING</Email>
+    <HireDate>1987-06-17</HireDate>
+    <JobTitle>President</JobTitle>
+    <Salary>24000</Salary>
+    <EmployeeManagerID />
+    <DepartmentID>90</DepartmentID>
+    <DepartmentName>Executive</DepartmentName>
+    <DepartmentManagerID>100</DepartmentManagerID>
+    <MinSalary>20000</MinSalary>
+    <MaxSalary>40000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>101</EmployeeID>
+    <EmployeeName>Neena Kochhar</EmployeeName>
+    <Email>NKOCHHAR</Email>
+    <HireDate>1989-09-21</HireDate>
+    <JobTitle>Administration Vice President</JobTitle>
+    <Salary>17000</Salary>
+    <EmployeeManagerID>100</EmployeeManagerID>
+    <DepartmentID>90</DepartmentID>
+    <DepartmentName>Executive</DepartmentName>
+    <DepartmentManagerID>100</DepartmentManagerID>
+    <MinSalary>15000</MinSalary>
+    <MaxSalary>30000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>102</EmployeeID>
+    <EmployeeName>Lex De Haan</EmployeeName>
+    <Email>LDEHAAN</Email>
+    <HireDate>1993-01-13</HireDate>
+    <JobTitle>Administration Vice President</JobTitle>
+    <Salary>17000</Salary>
+    <EmployeeManagerID>100</EmployeeManagerID>
+    <DepartmentID>90</DepartmentID>
+    <DepartmentName>Executive</DepartmentName>
+    <DepartmentManagerID>100</DepartmentManagerID>
+    <MinSalary>15000</MinSalary>
+    <MaxSalary>30000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>103</EmployeeID>
+    <EmployeeName>Alexander Hunold</EmployeeName>
+    <Email>AHUNOLD</Email>
+    <HireDate>1990-01-03</HireDate>
+    <JobTitle>Programmer</JobTitle>
+    <Salary>9000</Salary>
+    <EmployeeManagerID>102</EmployeeManagerID>
+    <DepartmentID>60</DepartmentID>
+    <DepartmentName>IT</DepartmentName>
+    <DepartmentManagerID>103</DepartmentManagerID>
+    <MinSalary>4000</MinSalary>
+    <MaxSalary>10000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>104</EmployeeID>
+    <EmployeeName>Bruce Ernst</EmployeeName>
+    <Email>BERNST</Email>
+    <HireDate>1991-05-21</HireDate>
+    <JobTitle>Programmer</JobTitle>
+    <Salary>6000</Salary>
+    <EmployeeManagerID>103</EmployeeManagerID>
+    <DepartmentID>60</DepartmentID>
+    <DepartmentName>IT</DepartmentName>
+    <DepartmentManagerID>103</DepartmentManagerID>
+    <MinSalary>4000</MinSalary>
+    <MaxSalary>10000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>105</EmployeeID>
+    <EmployeeName>David Austin</EmployeeName>
+    <Email>DAUSTIN</Email>
+    <HireDate>1997-06-25</HireDate>
+    <JobTitle>Programmer</JobTitle>
+    <Salary>4800</Salary>
+    <EmployeeManagerID>103</EmployeeManagerID>
+    <DepartmentID>60</DepartmentID>
+    <DepartmentName>IT</DepartmentName>
+    <DepartmentManagerID>103</DepartmentManagerID>
+    <MinSalary>4000</MinSalary>
+    <MaxSalary>10000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>106</EmployeeID>
+    <EmployeeName>Valli Pataballa</EmployeeName>
+    <Email>VPATABAL</Email>
+    <HireDate>1998-02-05</HireDate>
+    <JobTitle>Programmer</JobTitle>
+    <Salary>4800</Salary>
+    <EmployeeManagerID>103</EmployeeManagerID>
+    <DepartmentID>60</DepartmentID>
+    <DepartmentName>IT</DepartmentName>
+    <DepartmentManagerID>103</DepartmentManagerID>
+    <MinSalary>4000</MinSalary>
+    <MaxSalary>10000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>107</EmployeeID>
+    <EmployeeName>Diana Lorentz</EmployeeName>
+    <Email>DLORENTZ</Email>
+    <HireDate>1999-02-07</HireDate>
+    <JobTitle>Programmer</JobTitle>
+    <Salary>4200</Salary>
+    <EmployeeManagerID>103</EmployeeManagerID>
+    <DepartmentID>60</DepartmentID>
+    <DepartmentName>IT</DepartmentName>
+    <DepartmentManagerID>103</DepartmentManagerID>
+    <MinSalary>4000</MinSalary>
+    <MaxSalary>10000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>108</EmployeeID>
+    <EmployeeName>Nancy Greenberg</EmployeeName>
+    <Email>NGREENBE</Email>
+    <HireDate>1994-08-17</HireDate>
+    <JobTitle>Finance Manager</JobTitle>
+    <Salary>12000</Salary>
+    <EmployeeManagerID>101</EmployeeManagerID>
+    <DepartmentID>100</DepartmentID>
+    <DepartmentName>Finance</DepartmentName>
+    <DepartmentManagerID>108</DepartmentManagerID>
+    <MinSalary>8200</MinSalary>
+    <MaxSalary>16000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>109</EmployeeID>
+    <EmployeeName>Daniel Faviet</EmployeeName>
+    <Email>DFAVIET</Email>
+    <HireDate>1994-08-16</HireDate>
+    <JobTitle>Accountant</JobTitle>
+    <Salary>9000</Salary>
+    <EmployeeManagerID>108</EmployeeManagerID>
+    <DepartmentID>100</DepartmentID>
+    <DepartmentName>Finance</DepartmentName>
+    <DepartmentManagerID>108</DepartmentManagerID>
+    <MinSalary>4200</MinSalary>
+    <MaxSalary>9000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>110</EmployeeID>
+    <EmployeeName>John Chen</EmployeeName>
+    <Email>JCHEN</Email>
+    <HireDate>1997-09-28</HireDate>
+    <JobTitle>Accountant</JobTitle>
+    <Salary>8200</Salary>
+    <EmployeeManagerID>108</EmployeeManagerID>
+    <DepartmentID>100</DepartmentID>
+    <DepartmentName>Finance</DepartmentName>
+    <DepartmentManagerID>108</DepartmentManagerID>
+    <MinSalary>4200</MinSalary>
+    <MaxSalary>9000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>111</EmployeeID>
+    <EmployeeName>Ismael Sciarra</EmployeeName>
+    <Email>ISCIARRA</Email>
+    <HireDate>1997-09-30</HireDate>
+    <JobTitle>Accountant</JobTitle>
+    <Salary>7700</Salary>
+    <EmployeeManagerID>108</EmployeeManagerID>
+    <DepartmentID>100</DepartmentID>
+    <DepartmentName>Finance</DepartmentName>
+    <DepartmentManagerID>108</DepartmentManagerID>
+    <MinSalary>4200</MinSalary>
+    <MaxSalary>9000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>112</EmployeeID>
+    <EmployeeName>Jose Manuel Urman</EmployeeName>
+    <Email>JMURMAN</Email>
+    <HireDate>1998-03-07</HireDate>
+    <JobTitle>Accountant</JobTitle>
+    <Salary>7800</Salary>
+    <EmployeeManagerID>108</EmployeeManagerID>
+    <DepartmentID>100</DepartmentID>
+    <DepartmentName>Finance</DepartmentName>
+    <DepartmentManagerID>108</DepartmentManagerID>
+    <MinSalary>4200</MinSalary>
+    <MaxSalary>9000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>113</EmployeeID>
+    <EmployeeName>Luis Popp</EmployeeName>
+    <Email>LPOPP</Email>
+    <HireDate>1999-12-07</HireDate>
+    <JobTitle>Accountant</JobTitle>
+    <Salary>6900</Salary>
+    <EmployeeManagerID>108</EmployeeManagerID>
+    <DepartmentID>100</DepartmentID>
+    <DepartmentName>Finance</DepartmentName>
+    <DepartmentManagerID>108</DepartmentManagerID>
+    <MinSalary>4200</MinSalary>
+    <MaxSalary>9000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>114</EmployeeID>
+    <EmployeeName>Den Raphaely</EmployeeName>
+    <Email>DRAPHEAL</Email>
+    <HireDate>1994-12-07</HireDate>
+    <JobTitle>Purchasing Manager</JobTitle>
+    <Salary>11000</Salary>
+    <EmployeeManagerID>100</EmployeeManagerID>
+    <DepartmentID>30</DepartmentID>
+    <DepartmentName>Purchasing</DepartmentName>
+    <DepartmentManagerID>114</DepartmentManagerID>
+    <MinSalary>8000</MinSalary>
+    <MaxSalary>15000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>115</EmployeeID>
+    <EmployeeName>Alexander Khoo</EmployeeName>
+    <Email>AKHOO</Email>
+    <HireDate>1995-05-18</HireDate>
+    <JobTitle>Purchasing Clerk</JobTitle>
+    <Salary>3100</Salary>
+    <EmployeeManagerID>114</EmployeeManagerID>
+    <DepartmentID>30</DepartmentID>
+    <DepartmentName>Purchasing</DepartmentName>
+    <DepartmentManagerID>114</DepartmentManagerID>
+    <MinSalary>2500</MinSalary>
+    <MaxSalary>5500</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>116</EmployeeID>
+    <EmployeeName>Shelli Baida</EmployeeName>
+    <Email>SBAIDA</Email>
+    <HireDate>1997-12-24</HireDate>
+    <JobTitle>Purchasing Clerk</JobTitle>
+    <Salary>2900</Salary>
+    <EmployeeManagerID>114</EmployeeManagerID>
+    <DepartmentID>30</DepartmentID>
+    <DepartmentName>Purchasing</DepartmentName>
+    <DepartmentManagerID>114</DepartmentManagerID>
+    <MinSalary>2500</MinSalary>
+    <MaxSalary>5500</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>117</EmployeeID>
+    <EmployeeName>Sigal Tobias</EmployeeName>
+    <Email>STOBIAS</Email>
+    <HireDate>1997-07-24</HireDate>
+    <JobTitle>Purchasing Clerk</JobTitle>
+    <Salary>2800</Salary>
+    <EmployeeManagerID>114</EmployeeManagerID>
+    <DepartmentID>30</DepartmentID>
+    <DepartmentName>Purchasing</DepartmentName>
+    <DepartmentManagerID>114</DepartmentManagerID>
+    <MinSalary>2500</MinSalary>
+    <MaxSalary>5500</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>118</EmployeeID>
+    <EmployeeName>Guy Himuro</EmployeeName>
+    <Email>GHIMURO</Email>
+    <HireDate>1998-11-15</HireDate>
+    <JobTitle>Purchasing Clerk</JobTitle>
+    <Salary>2600</Salary>
+    <EmployeeManagerID>114</EmployeeManagerID>
+    <DepartmentID>30</DepartmentID>
+    <DepartmentName>Purchasing</DepartmentName>
+    <DepartmentManagerID>114</DepartmentManagerID>
+    <MinSalary>2500</MinSalary>
+    <MaxSalary>5500</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>119</EmployeeID>
+    <EmployeeName>Karen Colmenares</EmployeeName>
+    <Email>KCOLMENA</Email>
+    <HireDate>1999-08-10</HireDate>
+    <JobTitle>Purchasing Clerk</JobTitle>
+    <Salary>2500</Salary>
+    <EmployeeManagerID>114</EmployeeManagerID>
+    <DepartmentID>30</DepartmentID>
+    <DepartmentName>Purchasing</DepartmentName>
+    <DepartmentManagerID>114</DepartmentManagerID>
+    <MinSalary>2500</MinSalary>
+    <MaxSalary>5500</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>120</EmployeeID>
+    <EmployeeName>Matthew Weiss</EmployeeName>
+    <Email>MWEISS</Email>
+    <HireDate>1996-07-18</HireDate>
+    <JobTitle>Stock Manager</JobTitle>
+    <Salary>8000</Salary>
+    <EmployeeManagerID>100</EmployeeManagerID>
+    <DepartmentID>50</DepartmentID>
+    <DepartmentName>Shipping</DepartmentName>
+    <DepartmentManagerID>121</DepartmentManagerID>
+    <MinSalary>5500</MinSalary>
+    <MaxSalary>8500</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>121</EmployeeID>
+    <EmployeeName>Adam Fripp</EmployeeName>
+    <Email>AFRIPP</Email>
+    <HireDate>1997-04-10</HireDate>
+    <JobTitle>Stock Manager</JobTitle>
+    <Salary>8200</Salary>
+    <EmployeeManagerID>100</EmployeeManagerID>
+    <DepartmentID>50</DepartmentID>
+    <DepartmentName>Shipping</DepartmentName>
+    <DepartmentManagerID>121</DepartmentManagerID>
+    <MinSalary>5500</MinSalary>
+    <MaxSalary>8500</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>122</EmployeeID>
+    <EmployeeName>Payam Kaufling</EmployeeName>
+    <Email>PKAUFLIN</Email>
+    <HireDate>1995-05-01</HireDate>
+    <JobTitle>Stock Manager</JobTitle>
+    <Salary>7900</Salary>
+    <EmployeeManagerID>100</EmployeeManagerID>
+    <DepartmentID>50</DepartmentID>
+    <DepartmentName>Shipping</DepartmentName>
+    <DepartmentManagerID>121</DepartmentManagerID>
+    <MinSalary>5500</MinSalary>
+    <MaxSalary>8500</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>123</EmployeeID>
+    <EmployeeName>Shanta Vollman</EmployeeName>
+    <Email>SVOLLMAN</Email>
+    <HireDate>1997-10-10</HireDate>
+    <JobTitle>Stock Manager</JobTitle>
+    <Salary>6500</Salary>
+    <EmployeeManagerID>100</EmployeeManagerID>
+    <DepartmentID>50</DepartmentID>
+    <DepartmentName>Shipping</DepartmentName>
+    <DepartmentManagerID>121</DepartmentManagerID>
+    <MinSalary>5500</MinSalary>
+    <MaxSalary>8500</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>124</EmployeeID>
+    <EmployeeName>Kevin Mourgos</EmployeeName>
+    <Email>KMOURGOS</Email>
+    <HireDate>1999-11-16</HireDate>
+    <JobTitle>Stock Manager</JobTitle>
+    <Salary>5800</Salary>
+    <EmployeeManagerID>100</EmployeeManagerID>
+    <DepartmentID>50</DepartmentID>
+    <DepartmentName>Shipping</DepartmentName>
+    <DepartmentManagerID>121</DepartmentManagerID>
+    <MinSalary>5500</MinSalary>
+    <MaxSalary>8500</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>125</EmployeeID>
+    <EmployeeName>Julia Nayer</EmployeeName>
+    <Email>JNAYER</Email>
+    <HireDate>1997-07-16</HireDate>
+    <JobTitle>Stock Clerk</JobTitle>
+    <Salary>3200</Salary>
+    <EmployeeManagerID>120</EmployeeManagerID>
+    <DepartmentID>50</DepartmentID>
+    <DepartmentName>Shipping</DepartmentName>
+    <DepartmentManagerID>121</DepartmentManagerID>
+    <MinSalary>2000</MinSalary>
+    <MaxSalary>5000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>126</EmployeeID>
+    <EmployeeName>Irene Mikkilineni</EmployeeName>
+    <Email>IMIKKILI</Email>
+    <HireDate>1998-09-28</HireDate>
+    <JobTitle>Stock Clerk</JobTitle>
+    <Salary>2700</Salary>
+    <EmployeeManagerID>120</EmployeeManagerID>
+    <DepartmentID>50</DepartmentID>
+    <DepartmentName>Shipping</DepartmentName>
+    <DepartmentManagerID>121</DepartmentManagerID>
+    <MinSalary>2000</MinSalary>
+    <MaxSalary>5000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>127</EmployeeID>
+    <EmployeeName>James Landry</EmployeeName>
+    <Email>JLANDRY</Email>
+    <HireDate>1999-01-14</HireDate>
+    <JobTitle>Stock Clerk</JobTitle>
+    <Salary>2400</Salary>
+    <EmployeeManagerID>120</EmployeeManagerID>
+    <DepartmentID>50</DepartmentID>
+    <DepartmentName>Shipping</DepartmentName>
+    <DepartmentManagerID>121</DepartmentManagerID>
+    <MinSalary>2000</MinSalary>
+    <MaxSalary>5000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>128</EmployeeID>
+    <EmployeeName>Steven Markle</EmployeeName>
+    <Email>SMARKLE</Email>
+    <HireDate>2000-03-08</HireDate>
+    <JobTitle>Stock Clerk</JobTitle>
+    <Salary>2200</Salary>
+    <EmployeeManagerID>120</EmployeeManagerID>
+    <DepartmentID>50</DepartmentID>
+    <DepartmentName>Shipping</DepartmentName>
+    <DepartmentManagerID>121</DepartmentManagerID>
+    <MinSalary>2000</MinSalary>
+    <MaxSalary>5000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>129</EmployeeID>
+    <EmployeeName>Laura Bissot</EmployeeName>
+    <Email>LBISSOT</Email>
+    <HireDate>1997-08-20</HireDate>
+    <JobTitle>Stock Clerk</JobTitle>
+    <Salary>3300</Salary>
+    <EmployeeManagerID>121</EmployeeManagerID>
+    <DepartmentID>50</DepartmentID>
+    <DepartmentName>Shipping</DepartmentName>
+    <DepartmentManagerID>121</DepartmentManagerID>
+    <MinSalary>2000</MinSalary>
+    <MaxSalary>5000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>130</EmployeeID>
+    <EmployeeName>Mozhe Atkinson</EmployeeName>
+    <Email>MATKINSO</Email>
+    <HireDate>1997-10-30</HireDate>
+    <JobTitle>Stock Clerk</JobTitle>
+    <Salary>2800</Salary>
+    <EmployeeManagerID>121</EmployeeManagerID>
+    <DepartmentID>50</DepartmentID>
+    <DepartmentName>Shipping</DepartmentName>
+    <DepartmentManagerID>121</DepartmentManagerID>
+    <MinSalary>2000</MinSalary>
+    <MaxSalary>5000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>131</EmployeeID>
+    <EmployeeName>James Marlow</EmployeeName>
+    <Email>JAMRLOW</Email>
+    <HireDate>1997-02-16</HireDate>
+    <JobTitle>Stock Clerk</JobTitle>
+    <Salary>2500</Salary>
+    <EmployeeManagerID>121</EmployeeManagerID>
+    <DepartmentID>50</DepartmentID>
+    <DepartmentName>Shipping</DepartmentName>
+    <DepartmentManagerID>121</DepartmentManagerID>
+    <MinSalary>2000</MinSalary>
+    <MaxSalary>5000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>132</EmployeeID>
+    <EmployeeName>TJ Olson</EmployeeName>
+    <Email>TJOLSON</Email>
+    <HireDate>1999-04-10</HireDate>
+    <JobTitle>Stock Clerk</JobTitle>
+    <Salary>2100</Salary>
+    <EmployeeManagerID>121</EmployeeManagerID>
+    <DepartmentID>50</DepartmentID>
+    <DepartmentName>Shipping</DepartmentName>
+    <DepartmentManagerID>121</DepartmentManagerID>
+    <MinSalary>2000</MinSalary>
+    <MaxSalary>5000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>133</EmployeeID>
+    <EmployeeName>Jason Mallin</EmployeeName>
+    <Email>JMALLIN</Email>
+    <HireDate>1996-06-14</HireDate>
+    <JobTitle>Stock Clerk</JobTitle>
+    <Salary>3300</Salary>
+    <EmployeeManagerID>122</EmployeeManagerID>
+    <DepartmentID>50</DepartmentID>
+    <DepartmentName>Shipping</DepartmentName>
+    <DepartmentManagerID>121</DepartmentManagerID>
+    <MinSalary>2000</MinSalary>
+    <MaxSalary>5000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>134</EmployeeID>
+    <EmployeeName>Michael Rogers</EmployeeName>
+    <Email>MROGERS</Email>
+    <HireDate>1998-08-26</HireDate>
+    <JobTitle>Stock Clerk</JobTitle>
+    <Salary>2900</Salary>
+    <EmployeeManagerID>122</EmployeeManagerID>
+    <DepartmentID>50</DepartmentID>
+    <DepartmentName>Shipping</DepartmentName>
+    <DepartmentManagerID>121</DepartmentManagerID>
+    <MinSalary>2000</MinSalary>
+    <MaxSalary>5000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>135</EmployeeID>
+    <EmployeeName>Ki Gee</EmployeeName>
+    <Email>KGEE</Email>
+    <HireDate>1999-12-12</HireDate>
+    <JobTitle>Stock Clerk</JobTitle>
+    <Salary>2400</Salary>
+    <EmployeeManagerID>122</EmployeeManagerID>
+    <DepartmentID>50</DepartmentID>
+    <DepartmentName>Shipping</DepartmentName>
+    <DepartmentManagerID>121</DepartmentManagerID>
+    <MinSalary>2000</MinSalary>
+    <MaxSalary>5000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>136</EmployeeID>
+    <EmployeeName>Hazel Philtanker</EmployeeName>
+    <Email>HPHILTAN</Email>
+    <HireDate>2000-02-06</HireDate>
+    <JobTitle>Stock Clerk</JobTitle>
+    <Salary>2200</Salary>
+    <EmployeeManagerID>122</EmployeeManagerID>
+    <DepartmentID>50</DepartmentID>
+    <DepartmentName>Shipping</DepartmentName>
+    <DepartmentManagerID>121</DepartmentManagerID>
+    <MinSalary>2000</MinSalary>
+    <MaxSalary>5000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>137</EmployeeID>
+    <EmployeeName>Renske Ladwig</EmployeeName>
+    <Email>RLADWIG</Email>
+    <HireDate>1995-07-14</HireDate>
+    <JobTitle>Stock Clerk</JobTitle>
+    <Salary>3600</Salary>
+    <EmployeeManagerID>123</EmployeeManagerID>
+    <DepartmentID>50</DepartmentID>
+    <DepartmentName>Shipping</DepartmentName>
+    <DepartmentManagerID>121</DepartmentManagerID>
+    <MinSalary>2000</MinSalary>
+    <MaxSalary>5000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>138</EmployeeID>
+    <EmployeeName>Stephen Stiles</EmployeeName>
+    <Email>SSTILES</Email>
+    <HireDate>1997-10-26</HireDate>
+    <JobTitle>Stock Clerk</JobTitle>
+    <Salary>3200</Salary>
+    <EmployeeManagerID>123</EmployeeManagerID>
+    <DepartmentID>50</DepartmentID>
+    <DepartmentName>Shipping</DepartmentName>
+    <DepartmentManagerID>121</DepartmentManagerID>
+    <MinSalary>2000</MinSalary>
+    <MaxSalary>5000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>139</EmployeeID>
+    <EmployeeName>John Seo</EmployeeName>
+    <Email>JSEO</Email>
+    <HireDate>1998-02-12</HireDate>
+    <JobTitle>Stock Clerk</JobTitle>
+    <Salary>2700</Salary>
+    <EmployeeManagerID>123</EmployeeManagerID>
+    <DepartmentID>50</DepartmentID>
+    <DepartmentName>Shipping</DepartmentName>
+    <DepartmentManagerID>121</DepartmentManagerID>
+    <MinSalary>2000</MinSalary>
+    <MaxSalary>5000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>140</EmployeeID>
+    <EmployeeName>Joshua Patel</EmployeeName>
+    <Email>JPATEL</Email>
+    <HireDate>1998-04-06</HireDate>
+    <JobTitle>Stock Clerk</JobTitle>
+    <Salary>2500</Salary>
+    <EmployeeManagerID>123</EmployeeManagerID>
+    <DepartmentID>50</DepartmentID>
+    <DepartmentName>Shipping</DepartmentName>
+    <DepartmentManagerID>121</DepartmentManagerID>
+    <MinSalary>2000</MinSalary>
+    <MaxSalary>5000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>141</EmployeeID>
+    <EmployeeName>Trenna Rajs</EmployeeName>
+    <Email>TRAJS</Email>
+    <HireDate>1995-10-17</HireDate>
+    <JobTitle>Stock Clerk</JobTitle>
+    <Salary>3500</Salary>
+    <EmployeeManagerID>124</EmployeeManagerID>
+    <DepartmentID>50</DepartmentID>
+    <DepartmentName>Shipping</DepartmentName>
+    <DepartmentManagerID>121</DepartmentManagerID>
+    <MinSalary>2000</MinSalary>
+    <MaxSalary>5000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>142</EmployeeID>
+    <EmployeeName>Curtis Davies</EmployeeName>
+    <Email>CDAVIES</Email>
+    <HireDate>1997-01-29</HireDate>
+    <JobTitle>Stock Clerk</JobTitle>
+    <Salary>3100</Salary>
+    <EmployeeManagerID>124</EmployeeManagerID>
+    <DepartmentID>50</DepartmentID>
+    <DepartmentName>Shipping</DepartmentName>
+    <DepartmentManagerID>121</DepartmentManagerID>
+    <MinSalary>2000</MinSalary>
+    <MaxSalary>5000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>143</EmployeeID>
+    <EmployeeName>Randall Matos</EmployeeName>
+    <Email>RMATOS</Email>
+    <HireDate>1998-03-15</HireDate>
+    <JobTitle>Stock Clerk</JobTitle>
+    <Salary>2600</Salary>
+    <EmployeeManagerID>124</EmployeeManagerID>
+    <DepartmentID>50</DepartmentID>
+    <DepartmentName>Shipping</DepartmentName>
+    <DepartmentManagerID>121</DepartmentManagerID>
+    <MinSalary>2000</MinSalary>
+    <MaxSalary>5000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>144</EmployeeID>
+    <EmployeeName>Peter Vargas</EmployeeName>
+    <Email>PVARGAS</Email>
+    <HireDate>1998-07-09</HireDate>
+    <JobTitle>Stock Clerk</JobTitle>
+    <Salary>2500</Salary>
+    <EmployeeManagerID>124</EmployeeManagerID>
+    <DepartmentID>50</DepartmentID>
+    <DepartmentName>Shipping</DepartmentName>
+    <DepartmentManagerID>121</DepartmentManagerID>
+    <MinSalary>2000</MinSalary>
+    <MaxSalary>5000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>145</EmployeeID>
+    <EmployeeName>John Russell</EmployeeName>
+    <Email>JRUSSEL</Email>
+    <HireDate>1996-10-01</HireDate>
+    <JobTitle>Sales Manager</JobTitle>
+    <Salary>14000</Salary>
+    <EmployeeManagerID>100</EmployeeManagerID>
+    <DepartmentID>80</DepartmentID>
+    <DepartmentName>Sales</DepartmentName>
+    <DepartmentManagerID>145</DepartmentManagerID>
+    <MinSalary>10000</MinSalary>
+    <MaxSalary>20000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>146</EmployeeID>
+    <EmployeeName>Karen Partners</EmployeeName>
+    <Email>KPARTNER</Email>
+    <HireDate>1997-01-05</HireDate>
+    <JobTitle>Sales Manager</JobTitle>
+    <Salary>13500</Salary>
+    <EmployeeManagerID>100</EmployeeManagerID>
+    <DepartmentID>80</DepartmentID>
+    <DepartmentName>Sales</DepartmentName>
+    <DepartmentManagerID>145</DepartmentManagerID>
+    <MinSalary>10000</MinSalary>
+    <MaxSalary>20000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>147</EmployeeID>
+    <EmployeeName>Alberto Errazuriz</EmployeeName>
+    <Email>AERRAZUR</Email>
+    <HireDate>1997-03-10</HireDate>
+    <JobTitle>Sales Manager</JobTitle>
+    <Salary>12000</Salary>
+    <EmployeeManagerID>100</EmployeeManagerID>
+    <DepartmentID>80</DepartmentID>
+    <DepartmentName>Sales</DepartmentName>
+    <DepartmentManagerID>145</DepartmentManagerID>
+    <MinSalary>10000</MinSalary>
+    <MaxSalary>20000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>148</EmployeeID>
+    <EmployeeName>Gerald Cambrault</EmployeeName>
+    <Email>GCAMBRAU</Email>
+    <HireDate>1999-10-15</HireDate>
+    <JobTitle>Sales Manager</JobTitle>
+    <Salary>11000</Salary>
+    <EmployeeManagerID>100</EmployeeManagerID>
+    <DepartmentID>80</DepartmentID>
+    <DepartmentName>Sales</DepartmentName>
+    <DepartmentManagerID>145</DepartmentManagerID>
+    <MinSalary>10000</MinSalary>
+    <MaxSalary>20000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>149</EmployeeID>
+    <EmployeeName>Eleni Zlotkey</EmployeeName>
+    <Email>EZLOTKEY</Email>
+    <HireDate>2000-01-29</HireDate>
+    <JobTitle>Sales Manager</JobTitle>
+    <Salary>10500</Salary>
+    <EmployeeManagerID>100</EmployeeManagerID>
+    <DepartmentID>80</DepartmentID>
+    <DepartmentName>Sales</DepartmentName>
+    <DepartmentManagerID>145</DepartmentManagerID>
+    <MinSalary>10000</MinSalary>
+    <MaxSalary>20000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>150</EmployeeID>
+    <EmployeeName>Peter Tucker</EmployeeName>
+    <Email>PTUCKER</Email>
+    <HireDate>1997-01-30</HireDate>
+    <JobTitle>Sales Representative</JobTitle>
+    <Salary>10000</Salary>
+    <EmployeeManagerID>145</EmployeeManagerID>
+    <DepartmentID>80</DepartmentID>
+    <DepartmentName>Sales</DepartmentName>
+    <DepartmentManagerID>145</DepartmentManagerID>
+    <MinSalary>6000</MinSalary>
+    <MaxSalary>12000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>151</EmployeeID>
+    <EmployeeName>David Bernstein</EmployeeName>
+    <Email>DBERNSTE</Email>
+    <HireDate>1997-03-24</HireDate>
+    <JobTitle>Sales Representative</JobTitle>
+    <Salary>9500</Salary>
+    <EmployeeManagerID>145</EmployeeManagerID>
+    <DepartmentID>80</DepartmentID>
+    <DepartmentName>Sales</DepartmentName>
+    <DepartmentManagerID>145</DepartmentManagerID>
+    <MinSalary>6000</MinSalary>
+    <MaxSalary>12000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>152</EmployeeID>
+    <EmployeeName>Peter Hall</EmployeeName>
+    <Email>PHALL</Email>
+    <HireDate>1997-08-20</HireDate>
+    <JobTitle>Sales Representative</JobTitle>
+    <Salary>9000</Salary>
+    <EmployeeManagerID>145</EmployeeManagerID>
+    <DepartmentID>80</DepartmentID>
+    <DepartmentName>Sales</DepartmentName>
+    <DepartmentManagerID>145</DepartmentManagerID>
+    <MinSalary>6000</MinSalary>
+    <MaxSalary>12000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>153</EmployeeID>
+    <EmployeeName>Christopher Olsen</EmployeeName>
+    <Email>COLSEN</Email>
+    <HireDate>1998-03-30</HireDate>
+    <JobTitle>Sales Representative</JobTitle>
+    <Salary>8000</Salary>
+    <EmployeeManagerID>145</EmployeeManagerID>
+    <DepartmentID>80</DepartmentID>
+    <DepartmentName>Sales</DepartmentName>
+    <DepartmentManagerID>145</DepartmentManagerID>
+    <MinSalary>6000</MinSalary>
+    <MaxSalary>12000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>154</EmployeeID>
+    <EmployeeName>Nanette Cambrault</EmployeeName>
+    <Email>NCAMBRAU</Email>
+    <HireDate>1998-12-09</HireDate>
+    <JobTitle>Sales Representative</JobTitle>
+    <Salary>7500</Salary>
+    <EmployeeManagerID>145</EmployeeManagerID>
+    <DepartmentID>80</DepartmentID>
+    <DepartmentName>Sales</DepartmentName>
+    <DepartmentManagerID>145</DepartmentManagerID>
+    <MinSalary>6000</MinSalary>
+    <MaxSalary>12000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>155</EmployeeID>
+    <EmployeeName>Oliver Tuvault</EmployeeName>
+    <Email>OTUVAULT</Email>
+    <HireDate>1999-11-23</HireDate>
+    <JobTitle>Sales Representative</JobTitle>
+    <Salary>7000</Salary>
+    <EmployeeManagerID>145</EmployeeManagerID>
+    <DepartmentID>80</DepartmentID>
+    <DepartmentName>Sales</DepartmentName>
+    <DepartmentManagerID>145</DepartmentManagerID>
+    <MinSalary>6000</MinSalary>
+    <MaxSalary>12000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>156</EmployeeID>
+    <EmployeeName>Janette King</EmployeeName>
+    <Email>JKING</Email>
+    <HireDate>1996-01-30</HireDate>
+    <JobTitle>Sales Representative</JobTitle>
+    <Salary>10000</Salary>
+    <EmployeeManagerID>146</EmployeeManagerID>
+    <DepartmentID>80</DepartmentID>
+    <DepartmentName>Sales</DepartmentName>
+    <DepartmentManagerID>145</DepartmentManagerID>
+    <MinSalary>6000</MinSalary>
+    <MaxSalary>12000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>157</EmployeeID>
+    <EmployeeName>Patrick Sully</EmployeeName>
+    <Email>PSULLY</Email>
+    <HireDate>1996-03-04</HireDate>
+    <JobTitle>Sales Representative</JobTitle>
+    <Salary>9500</Salary>
+    <EmployeeManagerID>146</EmployeeManagerID>
+    <DepartmentID>80</DepartmentID>
+    <DepartmentName>Sales</DepartmentName>
+    <DepartmentManagerID>145</DepartmentManagerID>
+    <MinSalary>6000</MinSalary>
+    <MaxSalary>12000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>158</EmployeeID>
+    <EmployeeName>Allan McEwen</EmployeeName>
+    <Email>AMCEWEN</Email>
+    <HireDate>1996-08-01</HireDate>
+    <JobTitle>Sales Representative</JobTitle>
+    <Salary>9000</Salary>
+    <EmployeeManagerID>146</EmployeeManagerID>
+    <DepartmentID>80</DepartmentID>
+    <DepartmentName>Sales</DepartmentName>
+    <DepartmentManagerID>145</DepartmentManagerID>
+    <MinSalary>6000</MinSalary>
+    <MaxSalary>12000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>159</EmployeeID>
+    <EmployeeName>Lindsey Smith</EmployeeName>
+    <Email>LSMITH</Email>
+    <HireDate>1997-03-10</HireDate>
+    <JobTitle>Sales Representative</JobTitle>
+    <Salary>8000</Salary>
+    <EmployeeManagerID>146</EmployeeManagerID>
+    <DepartmentID>80</DepartmentID>
+    <DepartmentName>Sales</DepartmentName>
+    <DepartmentManagerID>145</DepartmentManagerID>
+    <MinSalary>6000</MinSalary>
+    <MaxSalary>12000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>160</EmployeeID>
+    <EmployeeName>Louise Doran</EmployeeName>
+    <Email>LDORAN</Email>
+    <HireDate>1997-12-15</HireDate>
+    <JobTitle>Sales Representative</JobTitle>
+    <Salary>7500</Salary>
+    <EmployeeManagerID>146</EmployeeManagerID>
+    <DepartmentID>80</DepartmentID>
+    <DepartmentName>Sales</DepartmentName>
+    <DepartmentManagerID>145</DepartmentManagerID>
+    <MinSalary>6000</MinSalary>
+    <MaxSalary>12000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>161</EmployeeID>
+    <EmployeeName>Sarath Sewall</EmployeeName>
+    <Email>SSEWALL</Email>
+    <HireDate>1998-11-03</HireDate>
+    <JobTitle>Sales Representative</JobTitle>
+    <Salary>7000</Salary>
+    <EmployeeManagerID>146</EmployeeManagerID>
+    <DepartmentID>80</DepartmentID>
+    <DepartmentName>Sales</DepartmentName>
+    <DepartmentManagerID>145</DepartmentManagerID>
+    <MinSalary>6000</MinSalary>
+    <MaxSalary>12000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>162</EmployeeID>
+    <EmployeeName>Clara Vishney</EmployeeName>
+    <Email>CVISHNEY</Email>
+    <HireDate>1997-11-11</HireDate>
+    <JobTitle>Sales Representative</JobTitle>
+    <Salary>10500</Salary>
+    <EmployeeManagerID>147</EmployeeManagerID>
+    <DepartmentID>80</DepartmentID>
+    <DepartmentName>Sales</DepartmentName>
+    <DepartmentManagerID>145</DepartmentManagerID>
+    <MinSalary>6000</MinSalary>
+    <MaxSalary>12000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>163</EmployeeID>
+    <EmployeeName>Danielle Greene</EmployeeName>
+    <Email>DGREENE</Email>
+    <HireDate>1999-03-19</HireDate>
+    <JobTitle>Sales Representative</JobTitle>
+    <Salary>9500</Salary>
+    <EmployeeManagerID>147</EmployeeManagerID>
+    <DepartmentID>80</DepartmentID>
+    <DepartmentName>Sales</DepartmentName>
+    <DepartmentManagerID>145</DepartmentManagerID>
+    <MinSalary>6000</MinSalary>
+    <MaxSalary>12000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>164</EmployeeID>
+    <EmployeeName>Mattea Marvins</EmployeeName>
+    <Email>MMARVINS</Email>
+    <HireDate>2000-01-24</HireDate>
+    <JobTitle>Sales Representative</JobTitle>
+    <Salary>7200</Salary>
+    <EmployeeManagerID>147</EmployeeManagerID>
+    <DepartmentID>80</DepartmentID>
+    <DepartmentName>Sales</DepartmentName>
+    <DepartmentManagerID>145</DepartmentManagerID>
+    <MinSalary>6000</MinSalary>
+    <MaxSalary>12000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>165</EmployeeID>
+    <EmployeeName>David Lee</EmployeeName>
+    <Email>DLEE</Email>
+    <HireDate>2000-02-23</HireDate>
+    <JobTitle>Sales Representative</JobTitle>
+    <Salary>6800</Salary>
+    <EmployeeManagerID>147</EmployeeManagerID>
+    <DepartmentID>80</DepartmentID>
+    <DepartmentName>Sales</DepartmentName>
+    <DepartmentManagerID>145</DepartmentManagerID>
+    <MinSalary>6000</MinSalary>
+    <MaxSalary>12000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>166</EmployeeID>
+    <EmployeeName>Sundar Ande</EmployeeName>
+    <Email>SANDE</Email>
+    <HireDate>2000-03-24</HireDate>
+    <JobTitle>Sales Representative</JobTitle>
+    <Salary>6400</Salary>
+    <EmployeeManagerID>147</EmployeeManagerID>
+    <DepartmentID>80</DepartmentID>
+    <DepartmentName>Sales</DepartmentName>
+    <DepartmentManagerID>145</DepartmentManagerID>
+    <MinSalary>6000</MinSalary>
+    <MaxSalary>12000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>167</EmployeeID>
+    <EmployeeName>Amit Banda</EmployeeName>
+    <Email>ABANDA</Email>
+    <HireDate>2000-04-21</HireDate>
+    <JobTitle>Sales Representative</JobTitle>
+    <Salary>6200</Salary>
+    <EmployeeManagerID>147</EmployeeManagerID>
+    <DepartmentID>80</DepartmentID>
+    <DepartmentName>Sales</DepartmentName>
+    <DepartmentManagerID>145</DepartmentManagerID>
+    <MinSalary>6000</MinSalary>
+    <MaxSalary>12000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>168</EmployeeID>
+    <EmployeeName>Lisa Ozer</EmployeeName>
+    <Email>LOZER</Email>
+    <HireDate>1997-03-11</HireDate>
+    <JobTitle>Sales Representative</JobTitle>
+    <Salary>11500</Salary>
+    <EmployeeManagerID>148</EmployeeManagerID>
+    <DepartmentID>80</DepartmentID>
+    <DepartmentName>Sales</DepartmentName>
+    <DepartmentManagerID>145</DepartmentManagerID>
+    <MinSalary>6000</MinSalary>
+    <MaxSalary>12000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>169</EmployeeID>
+    <EmployeeName>Harrison Bloom</EmployeeName>
+    <Email>HBLOOM</Email>
+    <HireDate>1998-03-23</HireDate>
+    <JobTitle>Sales Representative</JobTitle>
+    <Salary>10000</Salary>
+    <EmployeeManagerID>148</EmployeeManagerID>
+    <DepartmentID>80</DepartmentID>
+    <DepartmentName>Sales</DepartmentName>
+    <DepartmentManagerID>145</DepartmentManagerID>
+    <MinSalary>6000</MinSalary>
+    <MaxSalary>12000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>170</EmployeeID>
+    <EmployeeName>Tayler Fox</EmployeeName>
+    <Email>TFOX</Email>
+    <HireDate>1998-01-24</HireDate>
+    <JobTitle>Sales Representative</JobTitle>
+    <Salary>9600</Salary>
+    <EmployeeManagerID>148</EmployeeManagerID>
+    <DepartmentID>80</DepartmentID>
+    <DepartmentName>Sales</DepartmentName>
+    <DepartmentManagerID>145</DepartmentManagerID>
+    <MinSalary>6000</MinSalary>
+    <MaxSalary>12000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>171</EmployeeID>
+    <EmployeeName>William Smith</EmployeeName>
+    <Email>WSMITH</Email>
+    <HireDate>1999-02-23</HireDate>
+    <JobTitle>Sales Representative</JobTitle>
+    <Salary>7400</Salary>
+    <EmployeeManagerID>148</EmployeeManagerID>
+    <DepartmentID>80</DepartmentID>
+    <DepartmentName>Sales</DepartmentName>
+    <DepartmentManagerID>145</DepartmentManagerID>
+    <MinSalary>6000</MinSalary>
+    <MaxSalary>12000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>172</EmployeeID>
+    <EmployeeName>Elizabeth Bates</EmployeeName>
+    <Email>EBATES</Email>
+    <HireDate>1999-03-24</HireDate>
+    <JobTitle>Sales Representative</JobTitle>
+    <Salary>7300</Salary>
+    <EmployeeManagerID>148</EmployeeManagerID>
+    <DepartmentID>80</DepartmentID>
+    <DepartmentName>Sales</DepartmentName>
+    <DepartmentManagerID>145</DepartmentManagerID>
+    <MinSalary>6000</MinSalary>
+    <MaxSalary>12000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>173</EmployeeID>
+    <EmployeeName>Sundita Kumar</EmployeeName>
+    <Email>SKUMAR</Email>
+    <HireDate>2000-04-21</HireDate>
+    <JobTitle>Sales Representative</JobTitle>
+    <Salary>6100</Salary>
+    <EmployeeManagerID>148</EmployeeManagerID>
+    <DepartmentID>80</DepartmentID>
+    <DepartmentName>Sales</DepartmentName>
+    <DepartmentManagerID>145</DepartmentManagerID>
+    <MinSalary>6000</MinSalary>
+    <MaxSalary>12000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>174</EmployeeID>
+    <EmployeeName>Ellen Abel</EmployeeName>
+    <Email>EABEL</Email>
+    <HireDate>1996-05-11</HireDate>
+    <JobTitle>Sales Representative</JobTitle>
+    <Salary>11000</Salary>
+    <EmployeeManagerID>149</EmployeeManagerID>
+    <DepartmentID>80</DepartmentID>
+    <DepartmentName>Sales</DepartmentName>
+    <DepartmentManagerID>145</DepartmentManagerID>
+    <MinSalary>6000</MinSalary>
+    <MaxSalary>12000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>175</EmployeeID>
+    <EmployeeName>Alyssa Hutton</EmployeeName>
+    <Email>AHUTTON</Email>
+    <HireDate>1997-03-19</HireDate>
+    <JobTitle>Sales Representative</JobTitle>
+    <Salary>8800</Salary>
+    <EmployeeManagerID>149</EmployeeManagerID>
+    <DepartmentID>80</DepartmentID>
+    <DepartmentName>Sales</DepartmentName>
+    <DepartmentManagerID>145</DepartmentManagerID>
+    <MinSalary>6000</MinSalary>
+    <MaxSalary>12000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>176</EmployeeID>
+    <EmployeeName>Jonathon Taylor</EmployeeName>
+    <Email>JTAYLOR</Email>
+    <HireDate>1998-03-24</HireDate>
+    <JobTitle>Sales Representative</JobTitle>
+    <Salary>8600</Salary>
+    <EmployeeManagerID>149</EmployeeManagerID>
+    <DepartmentID>80</DepartmentID>
+    <DepartmentName>Sales</DepartmentName>
+    <DepartmentManagerID>145</DepartmentManagerID>
+    <MinSalary>6000</MinSalary>
+    <MaxSalary>12000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>177</EmployeeID>
+    <EmployeeName>Jack Livingston</EmployeeName>
+    <Email>JLIVINGS</Email>
+    <HireDate>1998-04-23</HireDate>
+    <JobTitle>Sales Representative</JobTitle>
+    <Salary>8400</Salary>
+    <EmployeeManagerID>149</EmployeeManagerID>
+    <DepartmentID>80</DepartmentID>
+    <DepartmentName>Sales</DepartmentName>
+    <DepartmentManagerID>145</DepartmentManagerID>
+    <MinSalary>6000</MinSalary>
+    <MaxSalary>12000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>179</EmployeeID>
+    <EmployeeName>Charles Johnson</EmployeeName>
+    <Email>CJOHNSON</Email>
+    <HireDate>2000-01-04</HireDate>
+    <JobTitle>Sales Representative</JobTitle>
+    <Salary>6200</Salary>
+    <EmployeeManagerID>149</EmployeeManagerID>
+    <DepartmentID>80</DepartmentID>
+    <DepartmentName>Sales</DepartmentName>
+    <DepartmentManagerID>145</DepartmentManagerID>
+    <MinSalary>6000</MinSalary>
+    <MaxSalary>12000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>180</EmployeeID>
+    <EmployeeName>Winston Taylor</EmployeeName>
+    <Email>WTAYLOR</Email>
+    <HireDate>1998-01-24</HireDate>
+    <JobTitle>Shipping Clerk</JobTitle>
+    <Salary>3200</Salary>
+    <EmployeeManagerID>120</EmployeeManagerID>
+    <DepartmentID>50</DepartmentID>
+    <DepartmentName>Shipping</DepartmentName>
+    <DepartmentManagerID>121</DepartmentManagerID>
+    <MinSalary>2500</MinSalary>
+    <MaxSalary>5500</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>181</EmployeeID>
+    <EmployeeName>Jean Fleaur</EmployeeName>
+    <Email>JFLEAUR</Email>
+    <HireDate>1998-02-23</HireDate>
+    <JobTitle>Shipping Clerk</JobTitle>
+    <Salary>3100</Salary>
+    <EmployeeManagerID>120</EmployeeManagerID>
+    <DepartmentID>50</DepartmentID>
+    <DepartmentName>Shipping</DepartmentName>
+    <DepartmentManagerID>121</DepartmentManagerID>
+    <MinSalary>2500</MinSalary>
+    <MaxSalary>5500</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>182</EmployeeID>
+    <EmployeeName>Martha Sullivan</EmployeeName>
+    <Email>MSULLIVA</Email>
+    <HireDate>1999-06-21</HireDate>
+    <JobTitle>Shipping Clerk</JobTitle>
+    <Salary>2500</Salary>
+    <EmployeeManagerID>120</EmployeeManagerID>
+    <DepartmentID>50</DepartmentID>
+    <DepartmentName>Shipping</DepartmentName>
+    <DepartmentManagerID>121</DepartmentManagerID>
+    <MinSalary>2500</MinSalary>
+    <MaxSalary>5500</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>183</EmployeeID>
+    <EmployeeName>Girard Geoni</EmployeeName>
+    <Email>GGEONI</Email>
+    <HireDate>2000-02-03</HireDate>
+    <JobTitle>Shipping Clerk</JobTitle>
+    <Salary>2800</Salary>
+    <EmployeeManagerID>120</EmployeeManagerID>
+    <DepartmentID>50</DepartmentID>
+    <DepartmentName>Shipping</DepartmentName>
+    <DepartmentManagerID>121</DepartmentManagerID>
+    <MinSalary>2500</MinSalary>
+    <MaxSalary>5500</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>184</EmployeeID>
+    <EmployeeName>Nandita Sarchand</EmployeeName>
+    <Email>NSARCHAN</Email>
+    <HireDate>1996-01-27</HireDate>
+    <JobTitle>Shipping Clerk</JobTitle>
+    <Salary>4200</Salary>
+    <EmployeeManagerID>121</EmployeeManagerID>
+    <DepartmentID>50</DepartmentID>
+    <DepartmentName>Shipping</DepartmentName>
+    <DepartmentManagerID>121</DepartmentManagerID>
+    <MinSalary>2500</MinSalary>
+    <MaxSalary>5500</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>185</EmployeeID>
+    <EmployeeName>Alexis Bull</EmployeeName>
+    <Email>ABULL</Email>
+    <HireDate>1997-02-20</HireDate>
+    <JobTitle>Shipping Clerk</JobTitle>
+    <Salary>4100</Salary>
+    <EmployeeManagerID>121</EmployeeManagerID>
+    <DepartmentID>50</DepartmentID>
+    <DepartmentName>Shipping</DepartmentName>
+    <DepartmentManagerID>121</DepartmentManagerID>
+    <MinSalary>2500</MinSalary>
+    <MaxSalary>5500</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>186</EmployeeID>
+    <EmployeeName>Julia Dellinger</EmployeeName>
+    <Email>JDELLING</Email>
+    <HireDate>1998-06-24</HireDate>
+    <JobTitle>Shipping Clerk</JobTitle>
+    <Salary>3400</Salary>
+    <EmployeeManagerID>121</EmployeeManagerID>
+    <DepartmentID>50</DepartmentID>
+    <DepartmentName>Shipping</DepartmentName>
+    <DepartmentManagerID>121</DepartmentManagerID>
+    <MinSalary>2500</MinSalary>
+    <MaxSalary>5500</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>187</EmployeeID>
+    <EmployeeName>Anthony Cabrio</EmployeeName>
+    <Email>ACABRIO</Email>
+    <HireDate>1999-02-07</HireDate>
+    <JobTitle>Shipping Clerk</JobTitle>
+    <Salary>3000</Salary>
+    <EmployeeManagerID>121</EmployeeManagerID>
+    <DepartmentID>50</DepartmentID>
+    <DepartmentName>Shipping</DepartmentName>
+    <DepartmentManagerID>121</DepartmentManagerID>
+    <MinSalary>2500</MinSalary>
+    <MaxSalary>5500</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>188</EmployeeID>
+    <EmployeeName>Kelly Chung</EmployeeName>
+    <Email>KCHUNG</Email>
+    <HireDate>1997-06-14</HireDate>
+    <JobTitle>Shipping Clerk</JobTitle>
+    <Salary>3800</Salary>
+    <EmployeeManagerID>122</EmployeeManagerID>
+    <DepartmentID>50</DepartmentID>
+    <DepartmentName>Shipping</DepartmentName>
+    <DepartmentManagerID>121</DepartmentManagerID>
+    <MinSalary>2500</MinSalary>
+    <MaxSalary>5500</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>189</EmployeeID>
+    <EmployeeName>Jennifer Dilly</EmployeeName>
+    <Email>JDILLY</Email>
+    <HireDate>1997-08-13</HireDate>
+    <JobTitle>Shipping Clerk</JobTitle>
+    <Salary>3600</Salary>
+    <EmployeeManagerID>122</EmployeeManagerID>
+    <DepartmentID>50</DepartmentID>
+    <DepartmentName>Shipping</DepartmentName>
+    <DepartmentManagerID>121</DepartmentManagerID>
+    <MinSalary>2500</MinSalary>
+    <MaxSalary>5500</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>190</EmployeeID>
+    <EmployeeName>Timothy Gates</EmployeeName>
+    <Email>TGATES</Email>
+    <HireDate>1998-07-11</HireDate>
+    <JobTitle>Shipping Clerk</JobTitle>
+    <Salary>2900</Salary>
+    <EmployeeManagerID>122</EmployeeManagerID>
+    <DepartmentID>50</DepartmentID>
+    <DepartmentName>Shipping</DepartmentName>
+    <DepartmentManagerID>121</DepartmentManagerID>
+    <MinSalary>2500</MinSalary>
+    <MaxSalary>5500</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>191</EmployeeID>
+    <EmployeeName>Randall Perkins</EmployeeName>
+    <Email>RPERKINS</Email>
+    <HireDate>1999-12-19</HireDate>
+    <JobTitle>Shipping Clerk</JobTitle>
+    <Salary>2500</Salary>
+    <EmployeeManagerID>122</EmployeeManagerID>
+    <DepartmentID>50</DepartmentID>
+    <DepartmentName>Shipping</DepartmentName>
+    <DepartmentManagerID>121</DepartmentManagerID>
+    <MinSalary>2500</MinSalary>
+    <MaxSalary>5500</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>192</EmployeeID>
+    <EmployeeName>Sarah Bell</EmployeeName>
+    <Email>SBELL</Email>
+    <HireDate>1996-02-04</HireDate>
+    <JobTitle>Shipping Clerk</JobTitle>
+    <Salary>4000</Salary>
+    <EmployeeManagerID>123</EmployeeManagerID>
+    <DepartmentID>50</DepartmentID>
+    <DepartmentName>Shipping</DepartmentName>
+    <DepartmentManagerID>121</DepartmentManagerID>
+    <MinSalary>2500</MinSalary>
+    <MaxSalary>5500</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>193</EmployeeID>
+    <EmployeeName>Britney Everett</EmployeeName>
+    <Email>BEVERETT</Email>
+    <HireDate>1997-03-03</HireDate>
+    <JobTitle>Shipping Clerk</JobTitle>
+    <Salary>3900</Salary>
+    <EmployeeManagerID>123</EmployeeManagerID>
+    <DepartmentID>50</DepartmentID>
+    <DepartmentName>Shipping</DepartmentName>
+    <DepartmentManagerID>121</DepartmentManagerID>
+    <MinSalary>2500</MinSalary>
+    <MaxSalary>5500</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>194</EmployeeID>
+    <EmployeeName>Samuel McCain</EmployeeName>
+    <Email>SMCCAIN</Email>
+    <HireDate>1998-07-01</HireDate>
+    <JobTitle>Shipping Clerk</JobTitle>
+    <Salary>3200</Salary>
+    <EmployeeManagerID>123</EmployeeManagerID>
+    <DepartmentID>50</DepartmentID>
+    <DepartmentName>Shipping</DepartmentName>
+    <DepartmentManagerID>121</DepartmentManagerID>
+    <MinSalary>2500</MinSalary>
+    <MaxSalary>5500</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>195</EmployeeID>
+    <EmployeeName>Vance Jones</EmployeeName>
+    <Email>VJONES</Email>
+    <HireDate>1999-03-17</HireDate>
+    <JobTitle>Shipping Clerk</JobTitle>
+    <Salary>2800</Salary>
+    <EmployeeManagerID>123</EmployeeManagerID>
+    <DepartmentID>50</DepartmentID>
+    <DepartmentName>Shipping</DepartmentName>
+    <DepartmentManagerID>121</DepartmentManagerID>
+    <MinSalary>2500</MinSalary>
+    <MaxSalary>5500</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>196</EmployeeID>
+    <EmployeeName>Alana Walsh</EmployeeName>
+    <Email>AWALSH</Email>
+    <HireDate>1998-04-24</HireDate>
+    <JobTitle>Shipping Clerk</JobTitle>
+    <Salary>3100</Salary>
+    <EmployeeManagerID>124</EmployeeManagerID>
+    <DepartmentID>50</DepartmentID>
+    <DepartmentName>Shipping</DepartmentName>
+    <DepartmentManagerID>121</DepartmentManagerID>
+    <MinSalary>2500</MinSalary>
+    <MaxSalary>5500</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>197</EmployeeID>
+    <EmployeeName>Kevin Feeney</EmployeeName>
+    <Email>KFEENEY</Email>
+    <HireDate>1998-05-23</HireDate>
+    <JobTitle>Shipping Clerk</JobTitle>
+    <Salary>3000</Salary>
+    <EmployeeManagerID>124</EmployeeManagerID>
+    <DepartmentID>50</DepartmentID>
+    <DepartmentName>Shipping</DepartmentName>
+    <DepartmentManagerID>121</DepartmentManagerID>
+    <MinSalary>2500</MinSalary>
+    <MaxSalary>5500</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>198</EmployeeID>
+    <EmployeeName>Donald OConnell</EmployeeName>
+    <Email>DOCONNEL</Email>
+    <HireDate>1999-06-21</HireDate>
+    <JobTitle>Shipping Clerk</JobTitle>
+    <Salary>2600</Salary>
+    <EmployeeManagerID>124</EmployeeManagerID>
+    <DepartmentID>50</DepartmentID>
+    <DepartmentName>Shipping</DepartmentName>
+    <DepartmentManagerID>121</DepartmentManagerID>
+    <MinSalary>2500</MinSalary>
+    <MaxSalary>5500</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>199</EmployeeID>
+    <EmployeeName>Douglas Grant</EmployeeName>
+    <Email>DGRANT</Email>
+    <HireDate>2000-01-13</HireDate>
+    <JobTitle>Shipping Clerk</JobTitle>
+    <Salary>2600</Salary>
+    <EmployeeManagerID>124</EmployeeManagerID>
+    <DepartmentID>50</DepartmentID>
+    <DepartmentName>Shipping</DepartmentName>
+    <DepartmentManagerID>121</DepartmentManagerID>
+    <MinSalary>2500</MinSalary>
+    <MaxSalary>5500</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>200</EmployeeID>
+    <EmployeeName>Jennifer Whalen</EmployeeName>
+    <Email>JWHALEN</Email>
+    <HireDate>1987-09-17</HireDate>
+    <JobTitle>Administration Assistant</JobTitle>
+    <Salary>4400</Salary>
+    <EmployeeManagerID>101</EmployeeManagerID>
+    <DepartmentID>10</DepartmentID>
+    <DepartmentName>Administration</DepartmentName>
+    <DepartmentManagerID>200</DepartmentManagerID>
+    <MinSalary>3000</MinSalary>
+    <MaxSalary>6000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>201</EmployeeID>
+    <EmployeeName>Michael Hartstein</EmployeeName>
+    <Email>MHARTSTE</Email>
+    <HireDate>1996-02-17</HireDate>
+    <JobTitle>Marketing Manager</JobTitle>
+    <Salary>13000</Salary>
+    <EmployeeManagerID>100</EmployeeManagerID>
+    <DepartmentID>20</DepartmentID>
+    <DepartmentName>Marketing</DepartmentName>
+    <DepartmentManagerID>201</DepartmentManagerID>
+    <MinSalary>9000</MinSalary>
+    <MaxSalary>15000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>202</EmployeeID>
+    <EmployeeName>Pat Fay</EmployeeName>
+    <Email>PFAY</Email>
+    <HireDate>1997-08-17</HireDate>
+    <JobTitle>Marketing Representative</JobTitle>
+    <Salary>6000</Salary>
+    <EmployeeManagerID>201</EmployeeManagerID>
+    <DepartmentID>20</DepartmentID>
+    <DepartmentName>Marketing</DepartmentName>
+    <DepartmentManagerID>201</DepartmentManagerID>
+    <MinSalary>4000</MinSalary>
+    <MaxSalary>9000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>203</EmployeeID>
+    <EmployeeName>Susan Mavris</EmployeeName>
+    <Email>SMAVRIS</Email>
+    <HireDate>1994-06-07</HireDate>
+    <JobTitle>Human Resources Representative</JobTitle>
+    <Salary>6500</Salary>
+    <EmployeeManagerID>101</EmployeeManagerID>
+    <DepartmentID>40</DepartmentID>
+    <DepartmentName>Human Resources</DepartmentName>
+    <DepartmentManagerID>203</DepartmentManagerID>
+    <MinSalary>4000</MinSalary>
+    <MaxSalary>9000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>204</EmployeeID>
+    <EmployeeName>Hermann Baer</EmployeeName>
+    <Email>HBAER</Email>
+    <HireDate>1994-06-07</HireDate>
+    <JobTitle>Public Relations Representative</JobTitle>
+    <Salary>10000</Salary>
+    <EmployeeManagerID>101</EmployeeManagerID>
+    <DepartmentID>70</DepartmentID>
+    <DepartmentName>Public Relations</DepartmentName>
+    <DepartmentManagerID>204</DepartmentManagerID>
+    <MinSalary>4500</MinSalary>
+    <MaxSalary>10500</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>205</EmployeeID>
+    <EmployeeName>Shelley Higgins</EmployeeName>
+    <Email>SHIGGINS</Email>
+    <HireDate>1994-06-07</HireDate>
+    <JobTitle>Accounting Manager</JobTitle>
+    <Salary>12000</Salary>
+    <EmployeeManagerID>101</EmployeeManagerID>
+    <DepartmentID>110</DepartmentID>
+    <DepartmentName>Accounting</DepartmentName>
+    <DepartmentManagerID>205</DepartmentManagerID>
+    <MinSalary>8200</MinSalary>
+    <MaxSalary>16000</MaxSalary>
+  </Data>
+  <Data>
+    <EmployeeID>206</EmployeeID>
+    <EmployeeName>William Gietz</EmployeeName>
+    <Email>WGIETZ</Email>
+    <HireDate>1994-06-07</HireDate>
+    <JobTitle>Public Accountant</JobTitle>
+    <Salary>8300</Salary>
+    <EmployeeManagerID>205</EmployeeManagerID>
+    <DepartmentID>110</DepartmentID>
+    <DepartmentName>Accounting</DepartmentName>
+    <DepartmentManagerID>205</DepartmentManagerID>
+    <MinSalary>4200</MinSalary>
+    <MaxSalary>9000</MaxSalary>
+  </Data>
+</OracleHRData>

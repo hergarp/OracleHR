@@ -1,0 +1,16 @@
+SELECT XMLElement("Data", 
+  XMLElement("EmployeeID", E.EMPLOYEE_ID),
+  XMLElement("EmployeeName", E.FIRST_NAME ||' '|| E.LAST_NAME),
+  XMLElement("Email", E.EMAIL),
+  XMLElement("HireDate", E.HIRE_DATE),
+  XMLElement("JobTitle", J.JOB_TITLE),
+  XMLElement("hiredate", E.HIRE_DATE),
+  XMLElement("Salary", E.SALARY),
+  XMLElement("EmployeeManagerID", E.MANAGER_ID),
+  XMLElement("DepartmentID", E.DEPARTMENT_ID),
+  XMLElement("DepartmentName", D.DEPARTMENT_NAME),
+  XMLElement("DepartmentManagerID", D.MANAGER_ID),
+  XMLElement("MinSalary", J.MIN_SALARY),
+  XMLElement("MaxSalary", J.MAX_SALARY)) AS "EredményTábla" 
+FROM EMPLOYEES E, JOBS J, DEPARTMENTS D
+WHERE E.JOB_ID=J.JOB_ID AND E.DEPARTMENT_ID=D.DEPARTMENT_ID;
